@@ -16,3 +16,17 @@
 <h1 align="center">link do Bio</h1>
 <h3 align="center">https://gabriel0kumura.github.io/</h3>
 <h1 align="center"></h1>
+
+<div align="center">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="img2.jpg" width='800'>
+</div>
+
+<h1 align="center"></h1>
+
+<h1 align="center">Contato</h1>
+
+<h3 align="center">Se Precisar Não Chama. </h3>
+
+  - Contato 1 : [](https://www.instagram.com/gabriel.okumura_?igsh=ajRqNndjenl1NjI0)
+
+  - Contato 2 : [](https://www.instagram.com/gabriel.okumura_?igsh=ajRqNndjenl1NjI0)
