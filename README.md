@@ -13,5 +13,6 @@
 </div>
 
 <h1 align="center"></h1>
+<h1 align="center">link do Bio</h1>
 <h3 align="center">https://gabriel0kumura.github.io/</h3>
 <h1 align="center"></h1>
