@@ -4,8 +4,8 @@
 
 <div>
   
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://spotify.com/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/spotify-9146FF?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/gabriel.okumura_?igsh=ajRqNndjenl1NjI0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://open.spotify.com/user/31mojyts442bkh4uvlla3yyfmi6u?si=q_aM6B2xQGOEw7qZ5t3oEg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/spotify-9146FF?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
 <h1 align="center"></h1>
