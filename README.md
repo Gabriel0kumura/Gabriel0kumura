@@ -27,6 +27,6 @@
 
 <h3 align="center">Se Precisar Não Chama. </h3>
 
-  - Contato 1 : [](https://www.instagram.com/gabriel.okumura_?igsh=ajRqNndjenl1NjI0)
+  - Contato 1 : [Chama Lá](https://www.instagram.com/gabriel.okumura_?igsh=ajRqNndjenl1NjI0)
 
-  - Contato 2 : [](https://www.instagram.com/gabriel.okumura_?igsh=ajRqNndjenl1NjI0)
+  - Contato 2 : [Chama Lá](https://www.instagram.com/gabriel.okumura_?igsh=ajRqNndjenl1NjI0)
