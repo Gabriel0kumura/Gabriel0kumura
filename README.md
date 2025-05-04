@@ -8,6 +8,6 @@
 <a href="https://spotify.com/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/spotify-9146FF?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 <div>
-<h3 align="center"></h3>
+<h1 align="center"></h1>
 <h3 align="center">https://gabriel0kumura.github.io/</h3>
-<h3 align="center"></h3>
+<h1 align="center"></h1>
