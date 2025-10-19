@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="img.jpg" width='800'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="img1.jpg" width='800'>
 </div>
 
 <h1 align="center"></h1>
