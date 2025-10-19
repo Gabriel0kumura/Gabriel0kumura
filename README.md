@@ -18,7 +18,7 @@
 <h1 align="center"></h1>
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="img2.jpg" width='800'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="img02.jpg" width='800'>
 </div>
 
 <h1 align="center"></h1>
